@@ -154,13 +154,16 @@ display: inline-block;
 text-align:center;
 }
 .intro{
-
+background-color:rgba(248,248,248,1.00);
 font-size:22px;
 font-weight:bold;
 margin-bottom:30px;
 text-align:center;
 align-content:center;
 text-transform:uppercase !important;
+border-radius: 42px 42px 42px 42px;
+-moz-border-radius: 42px 42px 42px 42px;
+-webkit-border-radius: 42px 42px 42px 42px;
 }
 .styled{
   margin-bottom: 5px;
