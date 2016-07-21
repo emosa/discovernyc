@@ -154,16 +154,18 @@ display: inline-block;
 text-align:center;
 }
 .intro{
-background-color:rgba(248,248,248,1.00);
 font-size:22px;
 font-weight:bold;
 margin-bottom:30px;
 text-align:center;
 align-content:center;
 text-transform:uppercase !important;
-border-radius: 42px 42px 42px 42px;
--moz-border-radius: 42px 42px 42px 42px;
--webkit-border-radius: 42px 42px 42px 42px;
+border-radius: 20px 20px 20px 20px;
+-moz-border-radius: 20px 20px 20px 20px;
+-webkit-border-radius: 20px 20px 20px 20px;
+background-color: rgba(255, 255, 255, 0.5);
+background: rgba(255, 255, 255, 0.5);
+color: rgba(255, 255, 255, 0.5);
 }
 .styled{
   margin-bottom: 5px;
