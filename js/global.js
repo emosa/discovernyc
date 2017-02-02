@@ -1,7 +1,7 @@
 
 $( function() {
 	$.backstretch('img/background.jpg');
-	var endDate = "August  31, 2016 12:00:00";
+	var endDate = "August  31, 2017 12:00:00";
 	$('.countdown.simple').countdown({ date: endDate });
 	$('.countdown.styled').countdown({
 	  date: endDate,
